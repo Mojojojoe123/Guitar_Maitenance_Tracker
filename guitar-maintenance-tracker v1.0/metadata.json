@@ -1,0 +1,6 @@
+{
+  "name": "Guitar Maintenance Tracker",
+  "description": "An elegant, dark-themed dashboard to track guitar setup, string health, and maintenance history with customizable thresholds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
